@@ -1,1 +1,1 @@
-# Robotic_Arm_Robotic_Gripper_Control
+# Robotic Arm Robotic Gripper Control
