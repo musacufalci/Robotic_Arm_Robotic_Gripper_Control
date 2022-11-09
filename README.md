@@ -7,6 +7,10 @@ ________________________________________________________________________________
 Tutucular bir robotta ne yapar? Tutucu nedir? En basit ifadeyle tutucular, robotların nesneleri alıp tutmasını sağlayan cihazlardır. İşbirlikçi bir robot (veya 'cobot') koluyla birleştirildiğinde, tutucular üreticilerin inceleme, montaj, toplama ve yerleştirme ve makine bakımı gibi temel süreçleri otomatikleştirmesini sağlar...
 _______________________________________________________________________________________________________________________________________________________________________
 
-- The work of the project and software simulation: https://youtu.be/v8WfsOzHfWQ
+- The work of the project and software simulations: 
+  
+  https://youtu.be/v8WfsOzHfWQ
+
+  https://youtu.be/pTJ1V-ibSTQ
 
 - Design by: https://www.linkedin.com/in/musacufalci/
